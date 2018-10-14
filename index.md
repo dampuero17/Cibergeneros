@@ -10,7 +10,8 @@ En el 2018, Ecuador perdió más de 2000 hectáreas de vegetación debido a los 
   
   <div>
   <iframe id="datawrapper-chart-GEenz" src="//datawrapper.dwcdn.net/GEenz/2/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="3934"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["GEenz"]={},window.datawrapper["GEenz"].embedDeltas={"100":4069,"200":4042,"300":3988,"400":3961,"500":3961,"700":3934,"800":3934,"900":3934,"1000":3934},window.datawrapper["GEenz"].iframe=document.getElementById("datawrapper-chart-GEenz"),window.datawrapper["GEenz"].iframe.style.height=window.datawrapper["GEenz"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["GEenz"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("GEenz"==b)window.datawrapper["GEenz"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQT1eWR0fAThFhx-vRpP6QkdgmcTDzVplvoSCqShfkHdddgRKj9FTAyBcgZta0Oyndd4YVtTSH2meQl/pubchart?oid=673166546&format=interactive
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT1eWR0fAThFhx-vRpP6QkdgmcTDzVplvoSCqShfkHdddgRKj9FTAyBcgZta0Oyndd4YVtTSH2meQl/pubchart?oid=673166546&amp;format=interactive"></iframe>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
